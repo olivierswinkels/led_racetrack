@@ -1,0 +1,12 @@
+[project]
+name = "led-racetrack"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.2.2",
+    "pyaml>=25.1.0",
+    "pygame>=2.6.1",
+    "rpi5-ws2812>=0.1.2",
+]
