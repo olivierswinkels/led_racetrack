@@ -1,6 +1,5 @@
 import pygame
 import sys
-import time
 import numpy as np
 from rpi5_ws2812.ws2812 import Color, WS2812SpiDriver
 from dataclasses import dataclass
